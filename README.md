@@ -1,2 +1,1 @@
-# config_my_own
-😁
+Welcome to *fork* 😂
