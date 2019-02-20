@@ -1,0 +1,1 @@
+"Cousine", "Oxygen Mono", "Roboto Mono", "Consolas", "Hack","SF Mono", "PT Mono", "Lekton Nerd Font Mono","Fira Code","Hasklig" ,"Courier",    "Input Mono","DejaVu Sans Mono",  "Inconsolata" 
